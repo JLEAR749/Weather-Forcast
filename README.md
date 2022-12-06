@@ -4,7 +4,7 @@
 ## User Story
 
 ## Screenshot 
-![alt text](Weather%20Dashboard%20Screnshot.png)
+![screenshot of project](Weather%20Dashboard%20Screnshot.png)
 
 ## User Story
 
